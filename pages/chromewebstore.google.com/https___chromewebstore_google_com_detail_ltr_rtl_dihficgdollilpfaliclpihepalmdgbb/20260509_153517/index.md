@@ -1,0 +1,73 @@
+# Visited: https://chromewebstore.google.com/detail/ltr-rtl/dihficgdollilpfaliclpihepalmdgbb
+**Time:** Sat May  9 15:35:23 UTC 2026
+
+## Screenshot
+![Screenshot](./screenshot.png)
+
+## Raw HTML
+[page.html](./page.html)
+
+## Downloaded Media (6 files)
+## Downloaded Media Files
+
+![192px.svg](./media/192px.svg)
+![icon_144px.png](./media/icon_144px.png)
+![icon_48px.png](./media/icon_48px.png)
+![icon_96px.png](./media/icon_96px.png)
+![al-icon.png](./media/al-icon.png)
+![1778340923_192px.svg](./media/1778340923_192px.svg)
+
+## Other Links
+- [./](./)
+- [./category/extensions](./category/extensions)
+- [./category/extensions/make_chrome_yours/accessibility](./category/extensions/make_chrome_yours/accessibility)
+- [./detail/auto-rtlltr-switcher/iagbjlddhajgidlfcdpocafilcabjfbi](./detail/auto-rtlltr-switcher/iagbjlddhajgidlfcdpocafilcabjfbi)
+- [./detail/chatgpt-rtl-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%D8%B1%D8%A7%D8%B3%D8%AA%E2%80%8C%DA%86%DB%8C/pjpmebofipgpjaincgoboibbmicccbne](./detail/chatgpt-rtl-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%D8%B1%D8%A7%D8%B3%D8%AA%E2%80%8C%DA%86%DB%8C/pjpmebofipgpjaincgoboibbmicccbne)
+- [./detail/chatgpt-rtl-support/igfnpdinafnhaidnnkedokcabfgeknnn](./detail/chatgpt-rtl-support/igfnpdinafnhaidnnkedokcabfgeknnn)
+- [./detail/claude-ai-rtl-transformer/pcnpnpaipomdildpaehlnmlbiiaagdid](./detail/claude-ai-rtl-transformer/pcnpnpaipomdildpaehlnmlbiiaagdid)
+- [./detail/dihficgdollilpfaliclpihepalmdgbb/report](./detail/dihficgdollilpfaliclpihepalmdgbb/report)
+- [./detail/dirx-rtl-ltr/pkdclhjgddilmjlikjmkkcoohkkldabl](./detail/dirx-rtl-ltr/pkdclhjgddilmjlikjmkkcoohkkldabl)
+- [./detail/fix-rtl-translate/gcojlhljcpgbagiboedilgcoalmpjaaj](./detail/fix-rtl-translate/gcojlhljcpgbagiboedilgcoalmpjaaj)
+- [./detail/fontara-font-changer/dcjdhicepiklefpimapdkbaeoocniemc](./detail/fontara-font-changer/dcjdhicepiklefpimapdkbaeoocniemc)
+- [./detail/ltr-rtl/diedjfeojbodkmhiekmafpecgkllbhcf](./detail/ltr-rtl/diedjfeojbodkmhiekmafpecgkllbhcf)
+- [./detail/ltr-rtl/dihficgdollilpfaliclpihepalmdgbb/reviews](./detail/ltr-rtl/dihficgdollilpfaliclpihepalmdgbb/reviews)
+- [./detail/rtl-all/eilpimgcclncpehhmnnplnfokcmdiefa](./detail/rtl-all/eilpimgcclncpehhmnnplnfokcmdiefa)
+- [./detail/rtl-text-director/bhojfeaocoeikkknhmofogkkokjpjjlh](./detail/rtl-text-director/bhojfeaocoeikkknhmofogkkokjpjjlh)
+- [./detail/rtl-toggle/diimdfmlegodnjbcgajllidffehegdbc](./detail/rtl-toggle/diimdfmlegodnjbcgajllidffehegdbc)
+- [./detail/writeright/gleiglfcmildnecmodgoeijleblhobjk](./detail/writeright/gleiglfcmildnecmodgoeijleblhobjk)
+- [//www.gstatic.com](//www.gstatic.com)
+- [data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==](data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+- [https://accounts.google.com/ServiceLogin?passive=1209600&amp;osid=1&amp;continue=https://chromewebstore.google.com/detail/ltr-rtl/dihficgdollilpfaliclpihepalmdgbb&amp;followup=https://chromewebstore.google.com/detail/ltr-rtl/dihficgdollilpfaliclpihepalmdgbb&amp;ec=GAZApQM](https://accounts.google.com/ServiceLogin?passive=1209600&amp;osid=1&amp;continue=https://chromewebstore.google.com/detail/ltr-rtl/dihficgdollilpfaliclpihepalmdgbb&amp;followup=https://chromewebstore.google.com/detail/ltr-rtl/dihficgdollilpfaliclpihepalmdgbb&amp;ec=GAZApQM)
+- [https://chrome.google.com/webstore/devconsole/](https://chrome.google.com/webstore/devconsole/)
+- [https://chromewebstore.google.com/](https://chromewebstore.google.com/)
+- [https://chromewebstore.google.com/detail/ltr-rtl/dihficgdollilpfaliclpihepalmdgbb](https://chromewebstore.google.com/detail/ltr-rtl/dihficgdollilpfaliclpihepalmdgbb)
+- [https://chromewebstore.google.com/user/installed](https://chromewebstore.google.com/user/installed)
+- [https://developer.chrome.com/docs/webstore/program-policies/limited-use/](https://developer.chrome.com/docs/webstore/program-policies/limited-use/)
+- [https://fonts.googleapis.com/css2?family=Google+Sans+Text_old:wght@400;500;700](https://fonts.googleapis.com/css2?family=Google+Sans+Text_old:wght@400;500;700)
+- [https://lh3.googleusercontent.com/72UKqIIM6hlVmoYqYIpbt5NyU9JdncL5qRjuX0QLyzdmP-2PuK-UDUGD_hrbM_PYhJzHzUfwPYGfoyIw0y4FRwX8AQ=s275-w275-h175](https://lh3.googleusercontent.com/72UKqIIM6hlVmoYqYIpbt5NyU9JdncL5qRjuX0QLyzdmP-2PuK-UDUGD_hrbM_PYhJzHzUfwPYGfoyIw0y4FRwX8AQ=s275-w275-h175)
+- [https://lh3.googleusercontent.com/C6VYfNbh_sSwJluIsbIw_KAYkEY4V01muxg7aZi5Zg0oqH_jAAs6SAgXu78zUhKVwyubXWYRcK8r4NoxYE6TEX6L49I=s60](https://lh3.googleusercontent.com/C6VYfNbh_sSwJluIsbIw_KAYkEY4V01muxg7aZi5Zg0oqH_jAAs6SAgXu78zUhKVwyubXWYRcK8r4NoxYE6TEX6L49I=s60)
+- [https://lh3.googleusercontent.com/NZJrZAux-GUHniuNZiNHYkcnsJsp0kZzznZB_GA0jOaX4aOJbD4imBW7S92I1wrt3kPovwe-jLpe72_S4KvpbPgERA=s60](https://lh3.googleusercontent.com/NZJrZAux-GUHniuNZiNHYkcnsJsp0kZzznZB_GA0jOaX4aOJbD4imBW7S92I1wrt3kPovwe-jLpe72_S4KvpbPgERA=s60)
+- [https://lh3.googleusercontent.com/OfqHov5zxRq1SFe2HOa_WRXhU2Z0dnvJmp-dvRCjDf0kN-3TpVBja-qAChjCF7YoOZYDC2wauq-UtckkUU3fIe84-xQ=s275-w275-h175](https://lh3.googleusercontent.com/OfqHov5zxRq1SFe2HOa_WRXhU2Z0dnvJmp-dvRCjDf0kN-3TpVBja-qAChjCF7YoOZYDC2wauq-UtckkUU3fIe84-xQ=s275-w275-h175)
+- [https://lh3.googleusercontent.com/PJe6-ZoTkAwZe2vGvNOLiprd6PgPahwk9wSXUSXZl6wvXs-MH15A6QNcVl7Y52czM-2UaW6D6ZATxZKQK2pPsmOw=s60](https://lh3.googleusercontent.com/PJe6-ZoTkAwZe2vGvNOLiprd6PgPahwk9wSXUSXZl6wvXs-MH15A6QNcVl7Y52czM-2UaW6D6ZATxZKQK2pPsmOw=s60)
+- [https://lh3.googleusercontent.com/QvaXx_hNWboijBWLodoai3aGeLzs3_4eBxgLGWoCoZkx5B-he6m0irD1R4PeuYSJaoHmRFy-JWzwPcAbd3hQaInLnPo=s60](https://lh3.googleusercontent.com/QvaXx_hNWboijBWLodoai3aGeLzs3_4eBxgLGWoCoZkx5B-he6m0irD1R4PeuYSJaoHmRFy-JWzwPcAbd3hQaInLnPo=s60)
+- [https://lh3.googleusercontent.com/_2d6dd_KeuS6Y4KJmoNedrZEnYhPWXPkDGuuRo6pLUscaQ8JOnqJEUggR3B5gsHF51GFpDQ5UEzzPP9H47-XTisQ7K0=s60](https://lh3.googleusercontent.com/_2d6dd_KeuS6Y4KJmoNedrZEnYhPWXPkDGuuRo6pLUscaQ8JOnqJEUggR3B5gsHF51GFpDQ5UEzzPP9H47-XTisQ7K0=s60)
+- [https://lh3.googleusercontent.com/gVUiig1UkC7EvXO3txxOvApOmT9MGDCdL93kn90fW1mydf-dZAgpxPEmFoQZLlT07OfQ3DP3TJHdC_xjAmqSTsA8BA=s60](https://lh3.googleusercontent.com/gVUiig1UkC7EvXO3txxOvApOmT9MGDCdL93kn90fW1mydf-dZAgpxPEmFoQZLlT07OfQ3DP3TJHdC_xjAmqSTsA8BA=s60)
+- [https://lh3.googleusercontent.com/hGMuIc2K2H3TTIvMj4YywBmJuOe3uDEZnbpk4lmU6Q0ElizzWkSN1tSpomgWfNNTB8klcoSN6K05A0n_Adj-tCI5dQ=s60](https://lh3.googleusercontent.com/hGMuIc2K2H3TTIvMj4YywBmJuOe3uDEZnbpk4lmU6Q0ElizzWkSN1tSpomgWfNNTB8klcoSN6K05A0n_Adj-tCI5dQ=s60)
+- [https://lh3.googleusercontent.com/jf-wUFvYprqE9en6xdBDty28uKA87GlKPNYlTVSqkITcuvDvijfRKbKbdZl3jUJ3ARXdu_iegWaBn26ttddyJrivCg=s60](https://lh3.googleusercontent.com/jf-wUFvYprqE9en6xdBDty28uKA87GlKPNYlTVSqkITcuvDvijfRKbKbdZl3jUJ3ARXdu_iegWaBn26ttddyJrivCg=s60)
+- [https://lh3.googleusercontent.com/l7JCZs4XexogDkDSylshd1cc1HuTL0gyb2nf6F7pSODYqTSnzF0QqKILH1BvVEtEzsxYTrIqHPJNwCRyrbIAjn23-g=s275-w275-h175](https://lh3.googleusercontent.com/l7JCZs4XexogDkDSylshd1cc1HuTL0gyb2nf6F7pSODYqTSnzF0QqKILH1BvVEtEzsxYTrIqHPJNwCRyrbIAjn23-g=s275-w275-h175)
+- [https://lh3.googleusercontent.com/nASzohPhNsirSWovqLeFYYLyx7rGgBtERIDKSOuG3ujEcCJ6wlyosbvTu4_rEEjMxhz2YHnGQrsPG4lfgOqq1spJvw=s275-w275-h175](https://lh3.googleusercontent.com/nASzohPhNsirSWovqLeFYYLyx7rGgBtERIDKSOuG3ujEcCJ6wlyosbvTu4_rEEjMxhz2YHnGQrsPG4lfgOqq1spJvw=s275-w275-h175)
+- [https://lh3.googleusercontent.com/sNHtNwZvd0uRcyuMuBl3wz5ykEXKJJBKsXmh8lfbSDUPh4FWYly2xVJawEDNN2DGFTBB85D1VQGXAdbp7icwVLwvk-E=s275-w275-h175](https://lh3.googleusercontent.com/sNHtNwZvd0uRcyuMuBl3wz5ykEXKJJBKsXmh8lfbSDUPh4FWYly2xVJawEDNN2DGFTBB85D1VQGXAdbp7icwVLwvk-E=s275-w275-h175)
+- [https://myaccount.google.com/privacypolicy?hl=en-US](https://myaccount.google.com/privacypolicy?hl=en-US)
+- [https://ssl.gstatic.com/chrome/webstore/intl/en-US/gallery_tos.html](https://ssl.gstatic.com/chrome/webstore/intl/en-US/gallery_tos.html)
+- [https://support.google.com/chrome_webstore/answer/1047776?hl=en-US](https://support.google.com/chrome_webstore/answer/1047776?hl=en-US)
+- [https://support.google.com/chrome_webstore/answer/12225786?p=cws_reviews_results](https://support.google.com/chrome_webstore/answer/12225786?p=cws_reviews_results)
+- [https://support.google.com/chrome_webstore/answer/12225786?p=cws_reviews_results&amp;hl=en-US](https://support.google.com/chrome_webstore/answer/12225786?p=cws_reviews_results&amp;hl=en-US)
+- [https://support.google.com/chrome_webstore?hl=en-US](https://support.google.com/chrome_webstore?hl=en-US)
+- [https://www.google.com/intl/en/about/products](https://www.google.com/intl/en/about/products)
+- [https://www.googletagmanager.com/gtag/js?id=G-KHZNC1Q6K0](https://www.googletagmanager.com/gtag/js?id=G-KHZNC1Q6K0)
+- [https://www.gstatic.com/_/mss/boq-chrome-webstore/_/js/k=boq-chrome-webstore.ChromeWebStoreConsumerFeUi.en_US._1_sRebHmE4.2018.O/am=gIABAAAAZgE/d=1/excm=_b,_tp,itemdetailview/ed=1/dg=0/wt=2/ujg=1/rs=AEP720L_gbibD58ZpwS_PgGAkEe9I4skhg/dti=1/m=_b,_tp](https://www.gstatic.com/_/mss/boq-chrome-webstore/_/js/k=boq-chrome-webstore.ChromeWebStoreConsumerFeUi.en_US._1_sRebHmE4.2018.O/am=gIABAAAAZgE/d=1/excm=_b,_tp,itemdetailview/ed=1/dg=0/wt=2/ujg=1/rs=AEP720L_gbibD58ZpwS_PgGAkEe9I4skhg/dti=1/m=_b,_tp)
+- [https://www.gstatic.com/_/mss/boq-chrome-webstore/_/ss/k=boq-chrome-webstore.ChromeWebStoreConsumerFeUi.8yAEeRYu51k.L.X.O/am=uMQngMABZgEAAg/d=1/ed=1/rs=AEP720KKY9L7SpTdnU3GTD5VGeyNHYBKdw/m=itemdetailview,_b,_tp](https://www.gstatic.com/_/mss/boq-chrome-webstore/_/ss/k=boq-chrome-webstore.ChromeWebStoreConsumerFeUi.8yAEeRYu51k.L.X.O/am=uMQngMABZgEAAg/d=1/ed=1/rs=AEP720KKY9L7SpTdnU3GTD5VGeyNHYBKdw/m=itemdetailview,_b,_tp)
+
+## Stats
+- Links: 55
+- Media: 6
