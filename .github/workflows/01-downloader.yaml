@@ -54,10 +54,10 @@ jobs:
           # FIX: Added p7zip-full for reliable cross-platform archives (replaces zip for split/password use)
           sudo apt-get install -y aria2 zip curl bc
 
-      - name: AVASAM Downloader - https://avasam.ir
+      - name:  Downloader -
         run: |
-          echo "🏷️  AVASAM - Your Download Solution"
-          echo "🌐 https://avasam.ir"
+          echo "🏷️ - Your Download Solution"
+          echo ""
           echo ""
 
       - name: Download files
@@ -79,7 +79,7 @@ jobs:
           mkdir -p "$BACKUP_DIR"
           echo "$BACKUP_DIR" > /tmp/backup_dir_path.txt
 
-          echo "AVASAM (https://avasam.ir) - Downloading with mode: $MODE"
+          echo "Downloading with mode: $MODE"
           echo "Split threshold: $SPLIT_THRESHOLD_MB MB (optimized for GitHub)"
           echo "Backup directory: $BACKUP_DIR"
           if [ -n "$ZIP_PASSWORD" ]; then
