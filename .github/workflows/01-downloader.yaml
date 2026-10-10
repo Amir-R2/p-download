@@ -733,7 +733,7 @@ jobs:
 
                 # Commit batch
                 if ! git diff --cached --quiet 2>/dev/null; then
-                  git commit -m "[] Add batch of $BATCH_COUNT files [skip ci]" --quiet 2>/dev/null || true
+                  git commit -m " Add batch of $BATCH_COUNT files " --quiet 2>/dev/null || true
 
                   # Push with retries and timeout
                   local PUSH_RETRY=0
@@ -754,7 +754,7 @@ jobs:
                         git add "$BF" 2>/dev/null || true
                       done
                       if ! git diff --cached --quiet 2>/dev/null; then
-                        git commit -m "[] Add batch of $BATCH_COUNT files [skip ci]" --quiet 2>/dev/null || true
+                        git commit -m " Add batch of $BATCH_COUNT files" --quiet 2>/dev/null || true
                       fi
                       sleep $((3 + RANDOM % 7))
                     fi
@@ -787,7 +787,7 @@ jobs:
               done
 
               if ! git diff --cached --quiet 2>/dev/null; then
-                git commit -m "[] Add final batch [skip ci]" --quiet 2>/dev/null || true
+                git commit -m "Add final batch" --quiet 2>/dev/null || true
 
                 local PUSH_RETRY=0
                 while [ $PUSH_RETRY -lt 5 ]; do
@@ -806,7 +806,7 @@ jobs:
                       git add "$BF" 2>/dev/null || true
                     done
                     if ! git diff --cached --quiet 2>/dev/null; then
-                      git commit -m "[] Add final batch [skip ci]" --quiet 2>/dev/null || true
+                      git commit -m " Add final batch " --quiet 2>/dev/null || true
                     fi
                   fi
                 done
@@ -854,7 +854,7 @@ jobs:
             # Still push READMEs if they exist
             git add README.md downloads/README.md 2>/dev/null || true
             if ! git diff --cached --quiet 2>/dev/null; then
-              git commit -m "[] Update README [skip ci]"
+              git commit -m " Update README "
               timeout 120 git push origin HEAD:"$BRANCH" || true
             fi
             echo "No download files to push!"
@@ -881,7 +881,7 @@ jobs:
             git add README.md
 
             if ! git diff --cached --quiet; then
-              git commit -m "[] Downloaded files [skip ci]"
+              git commit -m " Downloaded files "
 
               PUSH_RETRY=0
               while [ $PUSH_RETRY -lt 10 ]; do
@@ -899,7 +899,7 @@ jobs:
                   git add -A downloads/
                   git add README.md
                   if ! git diff --cached --quiet; then
-                    git commit -m "Downloaded files [skip ci]"
+                    git commit -m "Downloaded files "
                   fi
                 fi
               done
@@ -925,7 +925,7 @@ jobs:
             git add README.md
 
             if ! git diff --cached --quiet 2>/dev/null; then
-              git commit -m "[] Update download list [skip ci]" --quiet 2>/dev/null || true
+              git commit -m "Update download list " --quiet 2>/dev/null || true
 
               PUSH_RETRY=0
               while [ $PUSH_RETRY -lt 5 ]; do
